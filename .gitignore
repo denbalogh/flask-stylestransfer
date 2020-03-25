@@ -3,8 +3,8 @@
 .flaskenv
 *.pyc
 *.pyo
-env/
-env*
+venv/
+venv*
 dist/
 build/
 *.egg
@@ -16,9 +16,3 @@ _mailinglist
 .idea/
 docs/_build/
 .vscode
-
-# Coverage reports
-htmlcov/
-.coverage
-.coverage.*
-*,cover
